@@ -1,0 +1,57 @@
+
+html *
+{
+font-family: arial;
+}
+label {
+ font-weight:bold;
+ font-size:12px;
+}
+input{
+	margin-bottom:5px;
+}
+table, th, td {
+  border: 1px solid black;
+}
+h1 {
+  font-size: 14px;
+  font-weight: bold;
+  color: Black;
+
+}
+a:link {
+  color: rgb(0, 177, 69);
+  text-decoration: none;
+}
+a:visited {
+  color: rgb(0, 118, 69);
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover{
+  color: rgb(0, 88, 16);
+  text-decoration: underline;
+}
+.para{
+font-size: 12px;
+font-weight: bold;
+color: black;
+margin-left: 3px;
+}
+.date{
+color: grey;
+font-size: 8px;
+}
+.head{
+position: relative;
+color: rgb(0, 88, 16);
+ font-size: 22px;
+ font-weight: bold;
+}
+.desctiption{
+color: Black;
+font-size: 14px;
+}
+.footer{
+	font-size:10px
+}
